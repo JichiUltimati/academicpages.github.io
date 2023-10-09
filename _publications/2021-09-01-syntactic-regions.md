@@ -1,8 +1,8 @@
 ---
 title: "Syntactic Regions for Concurrent Programs"
 collection: publications
-permalink: /publication/2021-syntactic-regions
-date: 2021
+permalink: /publication/syntactic-regions
+date: 2021-09-01
 venue: 'MFPS 2021'
 paperurl: 'http://jichiultimati.github.io/files/syntactic-regions.pdf'
 citation: 'Syntactic Regions for Concurrent Programs. Samuel Mimram and Aly-Bora Ulusoy. In Ana Sokolova, editor, Proceedings 37th Conference on Mathematical Foundations of Programming Semantics, MFPS 2021, volume 351 of EPTCS, page 184–199, 2021.'
