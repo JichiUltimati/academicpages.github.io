@@ -11,30 +11,51 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Engineering Degree in Mathematics and Computer Science, \'Ecole Polytechnique, 2019
+* M.S. in Theoretical Computer Science (MPRI), Université Paris-Saclay, 2020
+* Ph.D in Concurrent Program Verification, Institut Polytechnique de Paris, 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Summer 2018: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* Summer 2019: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+
+* Summer 2020: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* From 2020 to 2024: Teaching Assistant
+  * Algorithmic for M1 Students
+  * Object-Oriented Programming in Java
+  * Introduction to Python for Bachelors
   
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages:
+  * French (C2)
+  * English (C2)
+  * Japanese (B1)
+* Programming Languages
+  * C/C++
+  * Python
+  * Java
+  * OCamL
+
+Academic Interests
+======
+* Verification
+* Concurrency
+* Order Theory
+* Directed Topology
 
 Publications
 ======
@@ -54,6 +75,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
