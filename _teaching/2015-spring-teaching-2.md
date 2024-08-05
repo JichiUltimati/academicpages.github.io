@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Algorithms and programmation"
+title: "CS411: Introduction to Algorithms and programmation"
 collection: teaching
 type: "Bachelor Course"
 permalink: /teaching/2015-spring-teaching-1
