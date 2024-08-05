@@ -11,26 +11,22 @@ redirect_from:
 
 Education
 ======
-* Engineering Degree in Mathematics and Computer Science, \'Ecole Polytechnique, 2019
+* Engineering Degree in Mathematics and Computer Science, Ecole Polytechnique, 2019
 * M.S. in Theoretical Computer Science (MPRI), Université Paris-Saclay, 2020
 * Ph.D in Concurrent Program Verification, Institut Polytechnique de Paris, 2023
 
 Work experience
 ======
-* Summer 2018: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Data Scientist Intern at SOMPO Holdings Japan
+  * Product conception
+  * Integration of connected wristband data for customized health insurance offers
 
-* Summer 2019: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Research Intern at INRIA Sophia-ANtipolis
+  * 3D-Rendering project with the GRAPHDECO team.
+  * Exploring Pre-rendred sampling techniques and optimal camera spacing for proper caustics and reflexion
 
-* Summer 2020: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Research Intern at Ecole Polytechnique
+  * Worked on syntactic models for concurrent programs with Samuel Mimram
 
 * From 2020 to 2024: Teaching Assistant
   * Algorithmic for M1 Students
