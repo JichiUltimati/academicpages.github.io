@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 2"
+title: "Introduction to Algorithms and programmation"
 collection: teaching
-type: "Workshop"
+type: "Bachelor Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Ecole Polytechnique, Engineering Cursus"
+date: 2020-09-01
+location: "Palaiseau, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching algorithmics using the Java Language for 2<sup>nd</sup> year Polytechnique Students from 2020 to 2024
 
-Heading 1
+Main topics
 ======
+* Data Structures
+* Recursive Functions
+* Dynamic Programing
+* Path-finding Algorithms
 
-Heading 2
-======
-
-Heading 3
-======

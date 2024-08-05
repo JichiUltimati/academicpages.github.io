@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "CS371: Introduction to OOP in Java"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Bachelor Course"
+permalink: /teaching/teaching-1
+venue: "Ecole Polytechnique, Engineering Cursus"
+date: 2020-08-01
+location: "Palaiseau, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching an introductory course to Java to 1<sup>st</sup> year Polytechnique students for 3 years.
 
-Heading 1
+Main topics
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+* Object Oriented Programming
+* Data Structures
+* XVM
